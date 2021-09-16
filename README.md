@@ -1,1 +1,1 @@
-# PostsGraphQL
+# PostsGraphQL 2
